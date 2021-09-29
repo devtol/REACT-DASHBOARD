@@ -13,7 +13,7 @@ Lama Dev 라는 유투버가 공개한 [리액트 대쉬보드 만들기 예제]
 [https://reactrouter.com](https://reactrouter.com)
 
 ### Material UI
-영상 에서는 material ui에서 설명하지만 버전업 되면서 mui로 바뀐것 같다 관련 리액트 컴포넌트 라이브러리 설치가 조금 바뀌엇다. 따라하는데는 문제 없음.
+영상 에서는 material ui에서 설명하지만 버전업 되면서 mui로 바뀌었다 관련 리액트 컴포넌트 라이브러리 설치방법이 달라 졌을뿐 따라하는데는 문제 없음.
 
 [https://mui.com](https://mui.com)
 
