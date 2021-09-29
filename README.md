@@ -9,9 +9,8 @@ Lama Dev 라는 유투버가 공개한 [리액트 대쉬보드 만들기 예제]
 ### 리액트 
 [https://ko.reactjs.org](https://ko.reactjs.org)
 
-#### route
-
-라우터를 활용한 페이지 이동
+#### 리액트 라우터(라우터를 활용한 페이지 이동)
+[https://reactrouter.com](https://reactrouter.com)
 
 ### Material UI
 머터리얼 UI
